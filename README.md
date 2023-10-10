@@ -1,4 +1,4 @@
-music player
+**music player**
 
 Music player made using HTML5, CSS and JS.
 
